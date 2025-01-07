@@ -40,4 +40,6 @@ Secure login sessions with password encryption.
 Input validation for adding, editing, or deleting books.
 Search and filter functionality to quickly locate books in the catalog.
 This Library Management System is an efficient and scalable solution for managing libraries, ensuring ease of use for both administrators and users while maintaining accurate inventory records and secure operations.
+
+
 https://github.com/user-attachments/assets/301959bd-fc11-4070-a735-f5f3e4dd7962
